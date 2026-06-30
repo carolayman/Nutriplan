@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NutriPlan - JavaScript Starter Project
 
 Welcome to the NutriPlan starter project! The design is fully complete - your task is to bring it to life with JavaScript.
@@ -118,3 +119,6 @@ To switch between pages, hide/show the relevant sections:
 - **Meals Page**: Show `#search-filters-section`, `#meal-categories-section`, `#all-recipes-section`
 - **Product Scanner**: Show `#products-section`
 - **Food Log**: Show `#foodlog-section`
+=======
+# Nutriplan
+>>>>>>> 4fa81c75fc52773d9aa9aa8fca069516aad2b40a
